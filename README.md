@@ -11,6 +11,7 @@ Estos archivos corresponden al bootcamp #8 de Penguin Academy, realizado desde e
 | --- | --- | --- |
 | #1 | **Introducción a Python** <br> Temas: variables; tipos de datos; operaciones aritméticas; concatenación; `input()`; funciones; alcance (funciones). | [Día 1](https://github.com/penguin-academy/bootcamp-8/blob/main/dia1.ipynb) |
 | #2 | **Pensamiento Computacional** <br> Temas: continuación de funciones; condicionales; listas; bucles `for` y `while`. Introducción al inicio del proyecto Wordle en Python. | [Día 2](https://github.com/penguin-academy/bootcamp-8/blob/main/dia2.ipynb) |
+| #3 | **Hazlo Funcionar** <br> Temas: continuación y finalización del proyecto Wordle en Python. Variables; tipos de datos; concatenación; operadores lógicos; condicionales; funciones (parámetros y argumentos); funciones built-in; listas; bucles `for` y `while`. Archivo `.py` final. | [Día 3](https://github.com/penguin-academy/bootcamp-8/tree/main/dia3) |
 
 
 ## Licencia
