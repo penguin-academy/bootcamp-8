@@ -14,6 +14,7 @@ Estos archivos corresponden al bootcamp #8 de Penguin Academy, realizado desde e
 | #3 | **Hazlo Funcionar** <br> Temas: continuación y finalización del proyecto Wordle en Python. Variables; tipos de datos; concatenación; operadores lógicos; condicionales; funciones (parámetros y argumentos); funciones built-in; listas; bucles `for` y `while`. Archivo `.py` final. | [Día 3](https://github.com/penguin-academy/bootcamp-8/tree/main/dia3) |
 | #4 | **Workshop: IoT** <br> Temas: introducción a componentes electrónicos y unidades de medida; Raspberry Pi; funcionamiento de un circuito eléctrico; encender y apagar LEDs; bucles con LEDs; condicionales con sensores y LEDs; Node para flujo de datos de manera visual. | [Día 4](https://github.com/penguin-academy/bootcamp-8/tree/main/dia4) |
 | #5 | **Objetos & Diccionarios** <br> Temas: conceptos de programación orientada a objetos (clases, objetos, atributos, métodos, herencia). Diccionarios.| [Día 5](https://github.com/penguin-academy/bootcamp-8/blob/main/dia5.ipynb) |
+| #6 | **Workshop: Robótica** <br> Temas: librerías, objetos, métodos. [RoDI](https://github.com/rodibot): movimiento del robot (ruedas), sensor de distancia, sensor de líneas, frecuencias de sonido. (Archivo `.py` de un equipo de participantes)| [Día 6](https://github.com/penguin-academy/bootcamp-8/blob/main/dia6.py) |
 
 
 ## Licencia
